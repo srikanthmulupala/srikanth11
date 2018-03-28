@@ -1,2 +1,3 @@
-This is my  second project from home
+git is version control system it is nothing but repository!
+The developer can store their code in this git repository!!
 
